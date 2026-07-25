@@ -1,1 +1,15 @@
 File 3 Push 
+
+Today I have learn how to add git file in git 
+
+Commands to add file
+
+Check the file status
+git status
+
+Then check file is green or not then add file
+git add <Filefile>
+
+git commit -m "add comment"
+
+git push
